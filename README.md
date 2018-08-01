@@ -42,7 +42,7 @@ require "app/config.krud.php";
 
 ## Exemplos
 
-Veja como reproduzir alguns exemplos em [Exemplos](https://github.com/kaiquecorreia/krud/blob/master/exemplos.md)
+Veja como reproduzir alguns exemplos em [Exemplos](https://github.com/kaiquecorreia/krud/blob/master/Samples/Samples.md)
 
 ## Autor
 
