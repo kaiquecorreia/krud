@@ -3,7 +3,7 @@
 -- Versão do servidor:           10.1.33-MariaDB - mariadb.org binary distribution
 -- OS do Servidor:               Win32
 -- HeidiSQL Versão:              9.3.0.4984
--- --------------------------------------------------------
+-- -------------------------------------------------------- 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET NAMES utf8mb4 */;

@@ -6,7 +6,7 @@
  * 
  * @copyright (c) 2018, Kaique R. Correia.
  * 
- */
+ */ 
 class Create extends Conn {
 
     private $Tabela;

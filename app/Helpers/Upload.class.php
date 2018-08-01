@@ -139,7 +139,7 @@ class Upload {
      * ***************************************
      * **********  PRIVATE METHODS  **********
      * ***************************************
-     */
+     */ 
 
     //Verifica e cria os diretórios com base em tipo de arquivo, ano e mês!
     private function CheckFolder($Folder) {

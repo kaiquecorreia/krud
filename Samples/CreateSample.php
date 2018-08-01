@@ -6,7 +6,7 @@
  * Aqui é esperado que as configurações do banco de dados já foram inseridas no arquivo config.krud.php.
  * Para realizar os exemplos você utilizar o banco que "bdsample".
  *  
-*/
+ */
 
 
 //Inclui o krud no projeto

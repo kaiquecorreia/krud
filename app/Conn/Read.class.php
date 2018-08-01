@@ -5,7 +5,7 @@
  * Classe responsável por leituras genéticas no banco de dados!
  *
  * @copyright (c) 2018, Kaique R. Correia.
- */
+ */ 
 class Read extends Conn
 {
 

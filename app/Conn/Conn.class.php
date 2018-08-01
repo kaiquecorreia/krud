@@ -6,7 +6,7 @@
  * Retorna um objeto PDO pelo método estático getConn();
  * 
  * @copyright (c) 2018, Kaique R. Correia - Web Developer
- */
+ */ 
 abstract class Conn {
 
     private static $Host = HOST;

@@ -1,7 +1,7 @@
 <?php
 /** 
  * @copyright (c) 2018, Kaique R. Correia.
-*/
+ */
 
 // CONFIGURAÇÃO DO BANCO DE DADOS.
 define('HOST', 'localhost');

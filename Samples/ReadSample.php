@@ -7,7 +7,7 @@
  * Para testar os exemplos é necessário que as tabelas estejam populadas
  * para retornar corretamente as informações.
  * Para realizar os exemplos você utilizar o banco que "bdsample".
-*/
+ */
 
 
 //Inclui o krud no projeto

@@ -1,5 +1,5 @@
 <?php
-/*~ class.smtp.php
+/*~ class.smtp.php 
 .---------------------------------------------------------------------------.
 |  Software: PHPMailer - PHP email class                                    |
 |   Version: 5.2.4                                                          |

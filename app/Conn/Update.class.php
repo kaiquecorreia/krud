@@ -5,7 +5,7 @@
  * Classe responsável por atualizações genéticas no banco de dados!
  * 
  * @copyright (c) 2018, Kaique R. Correia.
- */
+ */ 
 class Update extends Conn {
 
     private $Tabela;
