@@ -41,6 +41,18 @@ class Email {
         $this->mail->CharSet = 'UTF-8';
     }
 
+    /**
+     * Recebe um array de dados com os seguintes indices
+     * 
+     * ['assunto'=>'Assunto do email']
+     * ['mensagem'=>'Mensagem do e-mail a ser enviado']
+     * ['remetenteNome'=>'Nome de quem está enviando']
+     * ['remetenteEmail'=>'E-mail de quem está enviando']
+     * ['destinoNome'=>'E-mail nome de quem vai receber']
+     * ['destinoEmail'=>'E-mail de quem está recebendo']
+     * 
+     */
+
     public function Enviar(array $data) {
         $this->data = $data;
         $this->Clear();

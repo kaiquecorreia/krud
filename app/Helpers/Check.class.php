@@ -28,7 +28,7 @@ class Check {
     }
 
     /**
-     * <b>Tranforma URL:</b> Tranforma uma string no formato de URL amigável e retorna o a string convertida!
+     * <b>Transforma URL:</b> Tranforma uma string no formato de URL amigável e retorna o a string convertida!
      * @param STRING $Name = Uma string qualquer
      * @return STRING = $Data = Uma URL amigável válida
      */
@@ -46,7 +46,7 @@ class Check {
     }
 
     /**
-     * <b>Tranforma Data:</b> Transforma uma data no formato DD/MM/YY em uma data no formato TIMESTAMP!
+     * <b>Transforma Data:</b> Transforma uma data no formato DD/MM/YY em uma data no formato TIMESTAMP!
      * @param STRING $Name = Data em (d/m/Y) ou (d/m/Y H:i:s)
      * @return STRING = $Data = Data no formato timestamp!
      */
@@ -136,11 +136,11 @@ class Check {
         }
     }
     /**
-     * <b>Validar CNPJ:</b> Verifica a validade do cnpj informado.
-     * @param STRING $cnpj = cnpj informado.
+     * <b>Validar CNPJ:</b> Verifica a validade do CNPJ informado.
+     * @param STRING $cnpj = CNPJ informado.
      * @return BOOL
      */
-    public static function valida_cnpj($cnpj) {
+    public static function ValidaCNPJ($cnpj) {
         $cnpj = preg_replace('/[^0-9]/', '', (string) $cnpj);
         // Valida tamanho
         if (strlen($cnpj) != 14)
@@ -164,7 +164,7 @@ class Check {
 
     /**
      * <b>Validar CPF:</b> Verifica a validade do CPF informado.
-     * @param STRING $cpf = cpf informado.
+     * @param STRING $cpf = CPF informado.
      * @return BOOL
      */
     public static function ValidaCPF($cpf = false) {
